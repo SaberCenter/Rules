@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # CDN 和静态资源
@@ -17,6 +18,7 @@ DOMAIN,anthropic-com.ghost.io
 # 监控和遥测
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsigapi.net
+DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN-KEYWORD,datadog
 DOMAIN-KEYWORD,sift
 
