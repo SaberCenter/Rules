@@ -1,0 +1,15 @@
+# Sentry 错误监控
+DOMAIN-SUFFIX,sentry.io
+
+# Statsig 遥测与功能配置
+DOMAIN-SUFFIX,statsigapi.net
+
+# Datadog 监控
+DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN-KEYWORD,datadog
+
+# Sift 风控服务
+DOMAIN-KEYWORD,sift
+
+# Fathom 网站统计
+DOMAIN,cdn.usefathom.com
