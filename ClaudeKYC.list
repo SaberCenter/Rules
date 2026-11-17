@@ -1,0 +1,6 @@
+# Google Maps API
+DOMAIN,maps.googleapis.com
+
+# Persona 身份认证
+DOMAIN-SUFFIX,withpersona.com
+DOMAIN-SUFFIX,frompersona.com
